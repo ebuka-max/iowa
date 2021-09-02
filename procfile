@@ -1,1 +1,1 @@
-web: gunicorn HAVILAH.wsgi
+web:gunicorn HAVILAH.wsgi
